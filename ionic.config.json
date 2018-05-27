@@ -1,0 +1,8 @@
+{
+  "name": "todolist",
+  "app_id": "100f46c3",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
